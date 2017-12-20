@@ -1,6 +1,6 @@
 # Maah for ZSH
 
-A theme for [ZSH](http://zsh.org) with collapsed working directory and moon icon!
+A theme for [Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh) with collapsed working directory and moon(Persian: ماه, Māh) icon!
 
 ![Screenshot](https://raw.githubusercontent.com/SlashArash/maah/master/screenshot.png)
 
@@ -19,10 +19,10 @@ A theme for [ZSH](http://zsh.org) with collapsed working directory and moon icon
     ```
     git clone https://github.com/SlashArash/maah.git
     ```
-  - Create a symbolic link to oh-my-zsh's theme folder:
+  - Create a symbolic link to oh-my-zsh's custom theme folder:
     > Remember that you should replace PATH_TO_CLONED_REPO with the actual directories for this command to work.
     ```
-    ln -s PATH_TO_CLONED_REPO/maah/maah.zsh-theme ~/.oh-my-zsh/custom/theme/maah.zsh-theme
+    ln -s PATH_TO_CLONED_REPO/maah/maah.zsh-theme ~/.oh-my-zsh/custom/themes/maah.zsh-theme
     ```
 
 ### Manually
